@@ -1,5 +1,6 @@
-Hi, I’m @EnnEffDee
-I like making cool things.
+Hi, I’m EnnEffDee.
+I like making stuff.
+Some things don't work and others work very well, I don't know what I'm doing so I assume everything works terribly all the time :)
 
 <!---
 EnnEffDee/EnnEffDee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
